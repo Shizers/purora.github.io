@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Purora is god
 description: im better :D
+github:
+  is_project_page: false
