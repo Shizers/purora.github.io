@@ -1,7 +1,7 @@
 <!DOCTYPE html>
   <html lang="en"> 
     <head>
-      <title>Welcome to Purora's Domain</title>
+      Welcome to Purora's Domain
     </head>
     <body>
       <h1>Hello Losers</h1>
